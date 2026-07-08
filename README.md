@@ -25,5 +25,6 @@ Hi, I'm Siva Malli, an aspiring Data Analyst with skills in Excel, SQL, Power BI
 ![Sales Dashboard](dashboard.png)
 
 ## Contact
-- Email: boinasivamallu143@gmail.com
+- Email: sivamalliboina@gmail.com
 - GitHub: https://github.com/Siva-malli
+
