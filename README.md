@@ -18,3 +18,6 @@ I am a B.Sc. Computer Science graduate aspiring to become a Data Analyst.
 
 ## Contact
 📧 Email: sivamalliboina@gmail.com
+
+## Dashboard preview
+![sales dashboard](dashboard..png)
