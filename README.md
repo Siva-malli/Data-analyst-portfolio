@@ -2,6 +2,9 @@
 
 Hi, I'm Siva Malli, an aspiring Data Analyst with skills in Excel, SQL, Power BI, and Python.
 
+##  resume
+📄 [Download My Resume](Boina_Siva_Malli_Resume.pdf)
+
 ## Power BI Sales Dashboard
 
 ### Tools Used
@@ -27,7 +30,6 @@ Hi, I'm Siva Malli, an aspiring Data Analyst with skills in Excel, SQL, Power BI
 ## Contact
 - Email: sivamalliboina@gmail.com
 - GitHub: https://github.com/Siva-malli
-##  resume
-📄 [Download My Resume](Boina_Siva_Malli_Resume.pdf)
+
 
 
